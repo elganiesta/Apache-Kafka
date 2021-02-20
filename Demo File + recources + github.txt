@@ -1,6 +1,6 @@
 ############### GitHub Repository ########################
 
-repo : we will update this file later
+repo : https://github.com/elganiesta/Apache-Kafka-Presentation
 
 ###############  Download Kafka  #########################
 
